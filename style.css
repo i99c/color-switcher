@@ -32,7 +32,7 @@
 
 .color-switcher{
     position: fixed;
-    top: 25px; right: 0;
+    top: 25px; right: -200px;
     width: 200px;
     padding: 10px;
     background: #fff;
@@ -86,3 +86,5 @@
     background-color: currentColor; /* Bu satırı ekleyin */
     
 }
+
+
